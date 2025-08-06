@@ -1,2 +1,1 @@
-# mtc-repo-backend
-backend Code for MTC
+# This [each.key] repository is for infra developer
