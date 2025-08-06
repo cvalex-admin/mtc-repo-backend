@@ -1,1 +1,1 @@
-# This [each.key] repository is for infra developer
+# This backend repository is for infra developer
